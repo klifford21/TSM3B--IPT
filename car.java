@@ -35,5 +35,38 @@ public class java
     public String showprice()
     {
         return price;
+
+	
+	//Method 4:CHERRY
+     public void getctype(String ctype)
+    {
+        this.ctype = ctype;
+    }
+    
+    public String showctype()
+    {
+        return ctype;
+
+	
+	//Method 5:CHERRY
+     public void getccolor(String ccolor)
+    {
+        this.ccolor = ccolor;
+    }
+    
+    public String showccolor()
+    {
+        return ccolor;
+	
+	
+	//Method 6:CHERRY
+     public void getcgas(String cgas)
+    {
+        this.cgas = cgas;
+    }
+    
+    public String showcgas()
+    {
+        return cgas;
     }
 }
