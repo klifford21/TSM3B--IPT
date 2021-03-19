@@ -1,4 +1,4 @@
-package carDetails;;
+package carDetails;
 
 public class java 
 { 
