@@ -30,6 +30,10 @@ public class CarDetails
 	System.out.print("Car Color");
         String ccolor= num.nextLine();
         car.getcolor(ccolor);
+	    
+	System.out.print("Car Gas");
+        String cgas= num.nextLine();
+        car.getcgas(cgas);    
         
     }
 }
